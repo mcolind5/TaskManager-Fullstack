@@ -9,3 +9,5 @@ frontend/.env
 # System
 .DS_Store
 *.log
+
+.idea/
